@@ -1,4 +1,4 @@
-#👋 Hello, I'm Rishabh!
+## 👋Hello, I'm Rishabh!
 
 🎓 **Education:**
  - I'm currently pursuing my Master of Computer Applications (MCA) at Birla Institute of Technology Mesra, building upon the strong foundation I gained during my Bachelor of Computer Applications (BCA) at the same esteemed institution.
@@ -23,9 +23,8 @@
  - One notable achievement is our success in encouraging college students to donate blood at Blood Donation Camps, resulting in over 100 units contributed.
 
 🔗 **Let's Connect:** \n
-If you're interested in collaborating on tech projects, exploring potential career opportunities, or simply connecting with a passionate and skilled tech enthusiast, feel free to reach out. I'm excited to connect and explore the possibilities of how we can work together and make a positive impact in the world of technology. 👋 Hello, I'm Rishabh!
-
+If you're interested in collaborating on tech projects, exploring potential career opportunities, or simply connecting with a passionate and skilled tech enthusiast, feel free to reach out. I'm excited to connect and explore the possibilities of how we can work together and make a positive impact in the world of technology. 
 ---
 
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rishabh-shankar/)  
-**Instagram:** [Your Instagram Handle](https://www.instagram.com/rishabh_official2?igsh=bTk1Y2gxOWFkMThz)
+**LinkedIn:** [Rishabh-Shankar](https://www.linkedin.com/in/rishabh-shankar/)  
+**Instagram:** [Rishabh-Shankar](https://www.instagram.com/rishabh_official2?igsh=bTk1Y2gxOWFkMThz)
