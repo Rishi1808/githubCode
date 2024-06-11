@@ -27,3 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh129&show_icons=true&locale=en" alt="rishabh129" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh129&" alt="rishabh129" /></p>
+
+<p align="center">
+  <a href="https://github.com/rishabh129">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh129&theme=radical&border=7F3FBF&background=0D1117" alt="Rishabh's GitHub streak"/>
+  </a>
+</p>
