@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
+<h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">A passionate full stack developer from Ranchi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh129&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh129" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi1808&label=Profile%20views&color=0e75b6&style=flat" alt="rishi1808" /> </p>
 
-- 🔭 I’m currently working on [Hostel Room Allotment](https://github.com/rishabh129/hostel-room-allotment)
+- 🔭 I’m currently working on [Hostel Room Allotment](https://github.com/rishi1808/hostel-room-allotment)
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://www.rishabhshankar.tech/](https://www.rishabhshankar.tech/)
+- 👨‍💻 All of my projects are available at [https://www.rishiraj.tech/](https://www.rishiraj.tech/)
 
-- 📫 How to reach me **rishabhshankar05@gmail.com**
+- 📫 How to reach me **rishi1808.raj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
